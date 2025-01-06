@@ -1,9 +1,15 @@
 # 👋 Hi, I'm Kanwarpal Brar
 
-# 🚀 Computer Scientist | Full-Stack Developer | System Architect
+## 🚀 Software Engineer | Distributed Systems Specialist
 
-I'm a Computer Scientist specializing in distributed systems and high-performance backend architecture. With extensive experience across B2B enterprise solutions, cybersecurity infrastructure, and fintech systems, I focus on building elegant, scalable, and robust software solutions.
+Results-driven software engineer with expertise in high-performance distributed systems and enterprise architecture. Proven track record of delivering scalable solutions in fintech, cybersecurity, and cloud infrastructure.
 
+## 🎯 Core Competencies
+- Distributed Systems Architecture
+- High-Performance Computing
+- Cloud-Native Development
+- System Design & Architecture
+- Performance Optimization
 ## 🔧 Technical Arsenal
 ### Languages
 ```typescript
