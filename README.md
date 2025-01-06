@@ -66,7 +66,7 @@ I'm passionate about solving complex engineering challenges and designing elegan
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/kanwarpal-brar/)
-- [Website](kanwarpal.com)
+- [Website](https://kanwarpal.com)
 - [Email](mailto:kanwarpal.brar@outlook.com)
 
 ---
