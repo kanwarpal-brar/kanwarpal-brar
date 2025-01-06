@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kanwarpal Brar
 
-## 🚀 Software Engineer | Distributed Systems Specialist
+## 🚀 Software Engineer | Full-Stack Developer | System Architect
 
 Results-driven software engineer with expertise in high-performance distributed systems and enterprise architecture. Proven track record of delivering scalable solutions in fintech, cybersecurity, and cloud infrastructure.
 
