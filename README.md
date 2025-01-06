@@ -2,7 +2,7 @@
 
 # 🚀 Computer Scientist | Full-Stack Developer | System Architect
 
-I'm a Computer Scienstist specializing in distributed systems and high-performance backend architecture. With extensive experience across B2B enterprise solutions, cybersecurity infrastructure, and fintech systems, I focus on building elegant, scalable, and robust software solutions.
+I'm a Computer Scientist specializing in distributed systems and high-performance backend architecture. With extensive experience across B2B enterprise solutions, cybersecurity infrastructure, and fintech systems, I focus on building elegant, scalable, and robust software solutions.
 
 ## 🔧 Technical Arsenal
 ### Languages
