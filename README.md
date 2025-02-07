@@ -1,73 +1,50 @@
-# 👋 Hi, I'm Kanwarpal Brar
+# Kanwarpal Brar 👋
 
-## 🚀 Software Engineer | Full-Stack Developer | System Architect
+Hey, I'm Kanwarpal Brar, a software engineer ([kanwarpal.com](https://kanwarpal.com)) passionate about building distributed systems and solving complex problems. I enjoy working on high-performance applications and scalable microservice architectures.
 
-Results-driven software engineer with expertise in high-performance distributed systems and enterprise architecture. Proven track record of delivering scalable solutions in fintech, cybersecurity, and cloud infrastructure.
+## 🛠️ Skills & Technologies
 
-## 🎯 Core Competencies
-- Distributed Systems Architecture
-- High-Performance Computing
-- Cloud-Native Development
-- System Design & Architecture
-- Performance Optimization
-## 🔧 Technical Arsenal
-### Languages
-```typescript
-const languages = {
-expert: ["Go", "C++", "Python", "TypeScript/JavaScript"],
-proficient: ["Java", "Kotlin", "C#", "SQL"],
-familiar: ["C", "HTML/CSS", "SASS"]
-};
-```
-### Technologies & Frameworks
-- **Backend:** Node.js, Flask, Celery, Spring Boot
-- **Frontend:** React, Vue.js
-- **Infrastructure:** AWS, Azure, Kubernetes, Docker
-- **Messaging & Streaming:** Apache Kafka, Avro
-- **Databases:** SQL, NoSQL
-- **DevOps:** Git, CI/CD pipelines, Linux
+I'm proficient in:
 
-## 💼 Professional Journey
+*   **Languages:** Go, C++, Python, TypeScript/JavaScript, Java, Kotlin, C#
+*   **Backend:** Node.js, Flask, Spring Boot
+*   **Frontend:** React, Vue.js
+*   **Cloud:** AWS, Azure, Kubernetes, Docker
+*   **Data:** Kafka, SQL, NoSQL, Hadoop, Spark, MapReduce
 
-### 🏦 Payments Engineer @ Carta (2024)
-Architected mission-critical payment infrastructure and permissions systems, enabling automated money movement for large-scale investment funds. Collaborated with international banking partners to develop robust integrations processing millions in transactions monthly.
+## 💼 Experience
 
-### 📊 Backend Engineer @ Carta (2024)
-Developed core functionality for Carta's Cap Table Management platform, focusing on high-performance report generation and access control systems essential to equity management operations.
+*   **Carta:** Payments Engineer, Backend Engineer
+*   **UWaterloo:** Distributed Systems Research Assistant
+*   **Arctic Wolf Networks:** Software Developer Co-op
+*   **Genesys:** Full Stack Software Developer Co-op
+*   **Cloudspark Labs:** Software Engineering Intern
+*   **Pillar to Post:** DevOps Engineer Co-op
 
-### 🔬 Distributed Systems Researcher @ UWaterloo (2024)
-Led research initiatives in serverless computing, optimizing performance and resource utilization of cloud-native platforms through sophisticated system tuning and architectural improvements.
+## 🎓 Education
 
-### 🛡️ Full Stack Engineer @ Arctic Wolf Networks (2023)
-Engineered high-performance internal infrastructure, including concurrent Prometheus metrics systems and Kafka integration layers. Built robust microservices on AWS while contributing to frontend development using React.
+I studied Computer Science at the University of Waterloo, with a focus on distributed systems and concurrency.
 
-### 🌐 Software Engineer @ Genesys (2022)
-Developed and maintained critical components of an internal employee training and management platform, focusing on API optimization and serverless architecture.
+## 🌟 Interests
 
-### 🚀 Software Engineer @ Cloudspark Labs (2022)
-Led development of core microservices including licensing and notification systems for a suite of HR web applications, utilizing Azure cloud infrastructure and modern architectural patterns.
+I'm passionate about:
 
-### 🔄 DevOps Engineer @ Pillar to Post (2021)
-Designed and implemented automated regression testing infrastructure for web applications, improving deployment reliability and testing coverage.
+*   Distributed systems
+*   Concurrent programming
+*   Performance optimization
 
-## 🎯 Expertise
-- Designing and implementing distributed systems
-- Building high-performance concurrent applications
-- Architecting scalable microservice infrastructures
-- Creating robust REST APIs and service integrations
-- Developing cloud-native solutions
+Currently exploring these interests by:
 
-## 🌟 What Drives Me
-I'm passionate about solving complex engineering challenges and designing elegant systems. My particular interests lie in:
-- Distributed systems architecture
-- Concurrent programming patterns
-- Performance optimization
-- Highly scalable systems
+*   Running my own private Kubernetes cluster
+*   Experimenting with local AI models
+*   Building a concurrent in-memory event streaming platform
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/kanwarpal-brar/)
-- [Website](https://kanwarpal.com)
-- [Email](mailto:kanwarpal.brar@outlook.com)
+
+*   [LinkedIn](https://www.linkedin.com/in/kanwarpal-brar/)
+*   [Website](https://kanwarpal.com)
+*   [Email](mailto:kanwarpal.brar@outlook.com)
 
 ---
-💡 *"Engineering elegant solutions for complex problems"*
+
+💡 *"The Heap is my Enemy; The Stack is my friend"*
