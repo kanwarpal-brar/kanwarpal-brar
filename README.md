@@ -47,4 +47,4 @@ Currently exploring these interests by:
 
 ---
 
-💡 *"The Heap is my Enemy; The Stack is my friend"*
+💡 *"The Heap is my Enemy; The Stack is my Friend"*
