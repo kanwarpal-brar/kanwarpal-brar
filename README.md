@@ -1,50 +1,43 @@
-# Kanwarpal Brar 👋
+# Kanwarpal Brar
 
-Hey, I'm Kanwarpal Brar, a software engineer ([kanwarpal.com](https://kanwarpal.com)) passionate about building distributed systems and solving complex problems. I enjoy working on high-performance applications and scalable microservice architectures.
+Software engineer focused on distributed systems, big data, and high-performance computing. Currently building Meta's blob storage infrastructure.
 
-## 🛠️ Skills & Technologies
+## Experience
 
-I'm proficient in:
+- **Meta** - Production Engineer, Meta Blob Storage Team
+- **Arctic Wolf Networks** - Software Developer, Applications Team
+- **Carta** - Payments Engineer, Backend Engineer
+- **University of Waterloo** - Distributed Systems Research Assistant
 
-*   **Languages:** Go, C++, Python, TypeScript/JavaScript, Java, Kotlin, C#
-*   **Backend:** Node.js, Flask, Spring Boot
-*   **Frontend:** React, Vue.js
-*   **Cloud:** AWS, Azure, Kubernetes, Docker
-*   **Data:** Kafka, SQL, NoSQL, Hadoop, Spark, MapReduce
+## Technical Focus
 
-## 💼 Experience
+I work primarily with:
 
-*   **Carta:** Payments Engineer, Backend Engineer
-*   **UWaterloo:** Distributed Systems Research Assistant
-*   **Arctic Wolf Networks:** Software Developer Co-op
-*   **Genesys:** Full Stack Software Developer Co-op
-*   **Cloudspark Labs:** Software Engineering Intern
-*   **Pillar to Post:** DevOps Engineer Co-op
+**Languages:** Go, C++, Python, Java
+**Infrastructure:** Kubernetes, Docker, AWS, Azure
+**Data Systems:** Kafka, Hadoop, Spark, SQL/NoSQL databases
 
-## 🎓 Education
+## Interests
 
-I studied Computer Science at the University of Waterloo, with a focus on distributed systems and concurrency.
+My technical interests center on:
 
-## 🌟 Interests
+- Distributed systems architecture and design
+- Large-scale data processing and storage
+- Concurrency, parallelism, and performance optimization
 
-I'm passionate about:
+Outside of work, I run a private Kubernetes cluster, experiment with local AI models, and build concurrent in-memory event streaming platforms.
 
-*   Distributed systems
-*   Concurrent programming
-*   Performance optimization
+## Education
 
-Currently exploring these interests by:
+Computer Science, University of Waterloo
+Focus: Distributed Systems and Concurrency
 
-*   Running my own private Kubernetes cluster
-*   Experimenting with local AI models
-*   Building a concurrent in-memory event streaming platform
+## Contact
 
-## 📫 Let's Connect
-
-*   [LinkedIn](https://www.linkedin.com/in/kanwarpal-brar/)
-*   [Website](https://kanwarpal.com)
-*   [Email](mailto:kanwarpal.brar@outlook.com)
+- [kanwarpal.com](https://kanwarpal.com)
+- [LinkedIn](https://www.linkedin.com/in/kanwarpal-brar/)
+- [Email](mailto:kanwarpal.brar@outlook.com)
 
 ---
 
-💡 *"The Heap is my Enemy; The Stack is my Friend"*
+"The Heap is my Enemy; The Stack is my Friend"
